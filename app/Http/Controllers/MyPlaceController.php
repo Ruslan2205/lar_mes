@@ -9,6 +9,6 @@ class MyPlaceController extends Controller
     //
     public function index()
     {
-        return  'This is home page';
+        return  'This is home page!';
     }
 }
